@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 My name is Tales, I'm currently creating projects on Neps Academy and learning how to program. 😄
-I live in brazil.
+I live in Brazil.
 
 <!--
 **Tales-bit/Tales-bit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
