@@ -1,7 +1,7 @@
 ## Olá 👋
 
-Meu nome é Tales, e estou estudando programação e criando projetos no Neps Academy. 😄
-Eu moro no Brasil
+Meu nome é Tales, e estou estudando programação e criando projetos no Neps Academy.
+Eu moro no Brasil 😄
 
 Cheque o meu site sobre mim:
 [Sobre mim](https://tales-bit.github.io/Sobre-mim/)
